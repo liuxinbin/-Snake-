@@ -1,2 +1,2 @@
-# -Snake-
-原生js编写
+# Snake
+### demo:
